@@ -1,2 +1,3 @@
 # Daily-Python-Project
-https://dailypythonprojects.substack.com/p/all-projects-by-week
+Each day, i'm gonna do the challenge published here: https://dailypythonprojects.substack.com/p/all-projects-by-week 
+You can see that as I small projects portfolio
